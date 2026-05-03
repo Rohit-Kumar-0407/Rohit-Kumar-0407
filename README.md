@@ -1,7 +1,5 @@
 # Hi 🙋🏻‍♂️, I am Rohit Kumar 👦🏻
 I am student of Electronics And Telecommincations Dept. At D. Y. Patil College Of Engineering, Akurdi, Pune. I am also a Full Stack Web Developer and currently upskilling in Artificial Intelligence and Data Structures And Algorithms (DSA) in C++ (Cpp). I have always been interested in Technology and wanted to build a prosperous carrer in it. <br>
-<br>
-Here are some of my qualifications and works which prove them:
 
 ## Educational Qualifications 📖
 - Currently, Pursuing my B.Tech in Electronics And Telecommunication Student at DYPCOE, Akurdi.
