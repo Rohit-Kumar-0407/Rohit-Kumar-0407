@@ -12,19 +12,19 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 - Also, currently serving as a AI Model Evaluator Freelancing Role at Deccan AI Experts.
 
 ## Technical Stacks 💻
-1) **Programming Languages:**
-          [![Frontend](https://skillicons.dev/icons?i=python,cpp)]
-2) **Frontend:**
-         [![Frontend](https://skillicons.dev/icons?i=js,html,css)]
+1) **Programming Languages:**<br>
+          ![Programming-Languages](https://skillicons.dev/icons?i=python,cpp)
+2) **Frontend:**<br>
+         ![Frontend](https://skillicons.dev/icons?i=js,html,css)
 3) **Backend:** *(Not Learned Them Completely, so not adding them)*
 
-4) **Database:**
-         [![Database](https://skillicons.dev/icons?i=mysql)] *(Not Learned Them Completely, still practicing 😊)*
+4) **Database:**<br>
+         ![Database](https://skillicons.dev/icons?i=mysql) *(Not Learned Them Completely, still practicing 😊)*
 
 ## Social Links 📱
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.rohit04/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohit-kumar-425245369/)
-[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Rohit-Kumar-0407)
+![Instagram](https://skillicons.dev/icons?i=instagram)(https://www.instagram.com/k.rohit04/)
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/rohit-kumar-425245369/)
+![Github](https://skillicons.dev/icons?i=github)(https://www.github.com/Rohit-Kumar-0407)
 
 #### Feel Free To Connect And Collaborate 😀
 
