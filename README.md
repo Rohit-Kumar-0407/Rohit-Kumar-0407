@@ -12,13 +12,15 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 - Also, currently serving as a AI Model Evaluator Freelancing Role at Deccan AI Experts.
 
 ## Technical Stacks 💻
-1) **Programming Languages:**<br>
+1) **Programming Languages:** <br>
           ![Programming-Languages](https://skillicons.dev/icons?i=python,cpp)
-2) **Frontend:**<br>
-         ![Frontend](https://skillicons.dev/icons?i=js,html,css)
-3) **Backend:** *(Not Learned Them Completely, so not adding them)*
+2) **Frontend:** <br>
+         ![Frontend](https://skillicons.dev/icons?i=bootstrap)
+3) **Frontend Frameworks:** <br>
+         ![Frontend](https://skillicons.dev/icons?i=js,html,css) 
+5) **Backend:** *(Not Learned Them Completely, so not adding them)*
 
-4) **Database:**<br>
+6) **Database:** <br>
          ![Database](https://skillicons.dev/icons?i=mysql)<br>
    *(Not Learned Them Completely, still practicing 😊)*
 
