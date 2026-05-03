@@ -13,4 +13,4 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 
 ## Technical Stacks
 1) **Programming Languages:**
-2) **Frontend:** ![HTML](https://github.com/user-attachments/assets/cdb2d2a3-1995-4474-9f46-47121b7ccbc2>)
+2) **Frontend:** [![Frontend](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
