@@ -1,1 +1,16 @@
+# Hi 🙋🏻‍♂️, I am Rohit Kumar 👦🏻
+I am student of Electronics And Telecommincations Dept. At D. Y. Patil College Of Engineering, Akurdi, Pune. I am also a Full Stack Web Developer and currently upskilling in Artificial Intelligence and Data Structures And Algorithms (DSA) in C++ (Cpp). I have always been interested in Technology and wanted to build a prosperous carrer in it. Here are some of my qualifications and works which prove them:
 
+## Educational Qualifications 📖
+- Currently, Pursuing my B.Tech in Electronics And Telecommunication Student at DYPCOE, Akurdi.
+- Scored 9.38 SGPA in my 1st Semester.
+- Completed my Senior Secondary Education from CBSE Board at Kendriya Vidyalaya.
+- Was among the top 0.1% students of Kendriya Vidaylaya in CBSE Class 12th Results.
+
+## Technical Work Experience 👨‍💻
+- Completed 2 internships in my first year.
+- Also, currently serving as a AI Model Evaluator Freelancing Role at Deccan AI Experts.
+
+## Technical Stacks
+1) **Programming Languages:**
+2) **Frontend:** ![HTML](https://github.com/user-attachments/assets/cdb2d2a3-1995-4474-9f46-47121b7ccbc2>)
