@@ -17,7 +17,8 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 2) **Frontend:** <br>
          ![Frontend](https://skillicons.dev/icons?i=bootstrap)
 3) **Frontend Frameworks:** <br>
-         ![Frontend](https://skillicons.dev/icons?i=js,html,css) 
+         ![Frontend](https://skillicons.dev/icons?i=js,html,css,react
+   ) 
 5) **Backend:** *(Not Learned Them Completely, so not adding them)*
 
 6) **Database:** <br>
