@@ -26,7 +26,7 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 
 ## Social Links 📱
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.rohit04/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohit-kumar-425245369/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohit-kumar-425245369)
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Rohit-Kumar-0407)
 
 #### Feel Free To Connect And Collaborate 😀
