@@ -15,10 +15,8 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
 1) **Programming Languages:** <br>
           ![Programming-Languages](https://skillicons.dev/icons?i=python,cpp)
 2) **Frontend:** <br>
-         ![Frontend](https://skillicons.dev/icons?i=js,html,css,react)
-3) **Frontend Frameworks:** <br>
-         ![Frontend-Frameworks](https://skillicons.dev/icons?i=bootstrap)
-5) **Backend:**<br>
+         ![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)
+3) **Backend:** <br>
          ![Database](https://skillicons.dev/icons?i=nodejs,mysql)
 
 ## Social Links 📱
