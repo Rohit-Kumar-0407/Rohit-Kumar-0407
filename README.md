@@ -18,11 +18,8 @@ I am student of Electronics And Telecommincations Dept. At D. Y. Patil College O
          ![Frontend](https://skillicons.dev/icons?i=js,html,css,react)
 3) **Frontend Frameworks:** <br>
          ![Frontend-Frameworks](https://skillicons.dev/icons?i=bootstrap)
-5) **Backend:** *(Not Learned Them Completely, so not adding them)*
-
-6) **Database:** <br>
-         ![Database](https://skillicons.dev/icons?i=mysql)<br>
-   *(Not Learned Them Completely, still practicing 😊)*
+5) **Backend:**<br>
+         ![Database](https://skillicons.dev/icons?i=nodejs,mysql)
 
 ## Social Links 📱
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.rohit04/)
